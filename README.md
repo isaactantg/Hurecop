@@ -1,0 +1,2 @@
+# Hurecop
+Collaboration Platform
